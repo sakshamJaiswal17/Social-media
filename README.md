@@ -3,7 +3,10 @@
 
 A nice looking admin dashboard for a social media application.
 The admin dashboard that show a home page, users
-listing page and post listing page.
+listing page and post listing page.You using this you can
+see - Total Users,
+Total Posts, Users active in the last 24 hours, and Posts published in the last 24
+hours.
 
 
 
